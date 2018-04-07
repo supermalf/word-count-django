@@ -1,0 +1,7 @@
+*.py[cod]
+__pycache__/
+.vscode
+.pytest_cache
+.coverage
+.mypy_cache
+.DS_Store
